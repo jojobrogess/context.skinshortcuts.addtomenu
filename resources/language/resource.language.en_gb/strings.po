@@ -1,0 +1,21 @@
+# Kodi Media Center language file
+# Addon Name: Skin Shortcuts - Add To Menu
+# Addon id: context.skinshortcuts.addtomenu
+# Addon Provider: jojobrogess
+msgid ""
+msgstr ""
+"Project-Id-Version: context.skinshortcuts.addtomenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-1-31 17:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: jojobrogess\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#32000"
+msgid "Add to My Lists"
+msgstr ""
